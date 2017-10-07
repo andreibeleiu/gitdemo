@@ -1,0 +1,14 @@
+/*
+CSE 154 
+Lecture 2
+Styles for Allison's super rad resume. 
+*/
+
+p {
+	color: green;
+	background-color: #AA00CC;
+}
+
+h1 {
+	font-size: 20pt;
+}
